@@ -1,0 +1,3 @@
+# Ignora os checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

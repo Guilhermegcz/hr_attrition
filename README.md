@@ -33,7 +33,10 @@ Este projeto tem como objetivo prever o attrition (rotatividade) de funcionário
 ## 🧠 Modelos Utilizados
 
 - Regressão Logística
-- (Outros modelos podem ser adicionados aqui, caso estejam nos notebooks)
+- Decision Tree
+- Random Forest
+- SVM
+- XGBoost
 
 ## 🛠️ Como Executar
 
@@ -82,6 +85,6 @@ Com base nas análises e modelagens, espera-se obter um modelo capaz de:
 
 ## 📌 Contribuições Futuras
 
-- Inclusão de modelos mais complexos (e.g. XGBoost, Random Forest).
+- Inclusão de modelos mais complexos.
 - Implementação de pipeline automatizado.
 - Deployment do modelo como API.
